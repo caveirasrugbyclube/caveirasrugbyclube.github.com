@@ -34,7 +34,7 @@ header.main h1 {
 	margin: 0 auto 5px;
 }
 
-header.main a:hover {
+header.main h1 a:hover {
 	text-decoration: none;
 }
 
