@@ -172,11 +172,12 @@ article.post img.post_img {
 	z-index: 6;
 }
 
-article.post footer, article.post #comments {
+article.post footer {
     float: left;
     width: 150%;
 }
 
 article.post #comments {
+	width: 100%;
 	margin-top: 25px;
 }
