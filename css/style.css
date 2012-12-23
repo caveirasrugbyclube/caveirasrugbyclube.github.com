@@ -34,6 +34,14 @@ header.main h1 {
 	margin: 0 auto 5px;
 }
 
+header.main img.logo {
+    width: 15%;
+    position: absolute;
+    left: 43%;
+    opacity: .7;
+    z-index: -1;
+}
+
 header.main h2 {
 	margin: auto;
 	font-size: 1.3em;
