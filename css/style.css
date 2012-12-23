@@ -44,6 +44,7 @@ header.main img.logo {
     left: 43%;
     opacity: .7;
     z-index: -1;
+    top: 1px;
 }
 
 header.main h2 {
